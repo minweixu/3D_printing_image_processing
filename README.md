@@ -1,5 +1,5 @@
 
-# A Novel Quantitative Framework for Printability Evaluation in Extrusion-Based Food 3D Printing
+# A quantitative framework for printability evaluation of hydrocolloid-based inks in extrusion-based food 3D printing
 
 ## Overview
 This repository contains the data analysis code supporting the manuscript:
